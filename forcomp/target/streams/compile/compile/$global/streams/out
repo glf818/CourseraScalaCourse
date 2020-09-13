@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/guoliangfang/CourseraScalaCourse/forcomp/project/target/.sbt-compilation-infos/forcomp-compile/.sbt-idea-lock ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/guoliangfang/CourseraScalaCourse/forcomp/src/main/scala/forcomp/Anagrams.scala:196:9: Auto-application to `()` is deprecated. Supply the empty argument list `()` explicitly to invoke method getLines,[0m
+[0m[[0m[33mwarn[0m] [0m[0mor remove the empty argument list from its definition (Java-defined methods are exempt).[0m
+[0m[[0m[33mwarn[0m] [0m[0mIn Scala 3, an unapplied method like this will be eta-expanded into a function.[0m
+[0m[[0m[33mwarn[0m] [0m[0m      s.getLines.toList[0m
+[0m[[0m[33mwarn[0m] [0m[0m        ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/guoliangfang/CourseraScalaCourse/forcomp/project/target/.sbt-compilation-infos/forcomp-compile/.sbt-idea-lock.[0m
