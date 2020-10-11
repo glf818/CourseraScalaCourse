@@ -13,3 +13,4 @@ trait AnagramsInterface {
   def subtract(x: List[(Char, Int)], y: List[(Char, Int)]): List[(Char, Int)]
   def sentenceAnagrams(sentence: List[String]): List[List[String]]
 }
+

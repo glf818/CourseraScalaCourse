@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd3318a1-0f88-4d26-8c7b-d2541c3b97bc" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/../forcomp/src/main/scala/forcomp/Generator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/quickcheck/Scratch.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/quickcheck/scalacheck.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/quickcheck/scratch2.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/quickcheck/scratch3.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/quickcheck/scratch4.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forcomp/src/main/scala/forcomp/AnagramsInterface.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/src/main/scala/forcomp/AnagramsInterface.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forcomp/src/main/scala/forcomp/scratch.sc" beforeDir="false" afterPath="$PROJECT_DIR$/../forcomp/src/main/scala/forcomp/scratch.sc" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1i7WI5T1q0hUdS3no1vwwE8aKSB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd3318a1-0f88-4d26-8c7b-d2541c3b97bc" name="默认的" comment="" />
+      <created>1601259028013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601259028013</updated>
+      <workItem from="1601259034179" duration="383000" />
+      <workItem from="1601259423483" duration="55043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="313" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1601959197223">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state x="693" y="313" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.22.1920.1058@0.22.1920.1058" timestamp="1601959197223" />
+    <state x="1046" y="147" width="607" height="807" key="find.popup" timestamp="1601412139206">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state x="1046" y="147" width="607" height="807" key="find.popup/0.22.1920.1058@0.22.1920.1058" timestamp="1601412139206" />
+  </component>
+  <component name="WorksheetDefaultProjectSettings">
+    <option name="compilerProfileName" value="Default" />
+    <option name="moduleName" value="progfun2-quickcheck" />
+  </component>
+</project>

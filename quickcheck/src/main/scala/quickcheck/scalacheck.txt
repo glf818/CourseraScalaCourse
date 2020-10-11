@@ -1,0 +1,33 @@
+Generators
+Generators are responsible for generating test data in ScalaCheck, and are represented by org.scalacheck.Gen class.
+You need to know how to use this class if you want ScalaCheck to generate data of types that are not supported by default, or if you want to use the forAll method mentioned abovve to state properties about a specific subset of a type.
+In the Gen object, there are several methods for creating new and modifying existing generators
+We will show how to use some of them in this section. For a more complete reference of what is available, please see the API scaladoc.
+A generator can be seen simply as a function that takes some generation parameers,
+and (maybe) returns a generated value. That is, the type Gen[T] may be thought of
+as a function of type Gen.Params => Option[T]. However, the Gen class contains additional methods to make it possible to map generators, use them in for-comprehensions and so on.
+Conceptually, though, you shoud think of generators simply as functions, and the combinators in the Gen object can be used to create or modify the behaviour of such generator functions
+The best way to create generator is to use the generator combinators that exist in the org.scalacheck.Gen module.
+These can be combined using a for comprehension. Suppose you need a generator which generats a tuple that contains two random integr values,
+when scalacheck uses a generator to generate a value, it feeds it with some parameters
+one of the parameters the generator is given is a size value, which some generators use to generate their values.
+if you want to use the size parameter in your own generator you can use the Gen.size method"
+The arbitrary generator is the generator used by ScalaCheck when it generates
+values for property parameters. Most of the times, you have to supply the type of
+the value of arbitrary, like above, since Scala often can't infer the type automatically
+you can use arbitrary for any type that has an implicit Arbitrary instance. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
