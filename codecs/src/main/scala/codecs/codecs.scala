@@ -1,10 +1,6 @@
 package codecs
 
-/**
-  * A data type modeling JSON values.
-  *
-  * For example, the `42` integer JSON value can be modeled as `Json.Num(42)`
-  */
+
 sealed trait Json {
   /**
    * Try to decode this JSON value into a value of type `A` by using
@@ -21,17 +17,11 @@ sealed trait Json {
 }
 
 object Json {
-  /** The JSON `null` value */
   case object Null extends Json
-  /** JSON boolean values */
   case class Bool(value: Boolean) extends Json
-  /** JSON numeric values */
   case class Num(value: BigDecimal) extends Json
-  /** JSON string values */
   case class Str(value: String) extends Json
-  /** JSON objects */
   case class Obj(fields: Map[String, Json]) extends Json
-  /** JSON arrays */
   case class Arr(items: List[Json]) extends Json
 }
 
@@ -78,7 +68,8 @@ trait EncoderInstances {
     * Encodes a list of values of type `A` into a JSON array containing
     * the list elements encoded with the given `encoder`
     */
-  implicit def listEncoder[A](implicit encoder: Encoder[A]): Encoder[List[A]] = Encoder.fromFunction(as => Json.Arr(as.map(encoder.encode)))
+  implicit def listEncoder[A](implicit encoder: Encoder[A]): Encoder[List[A]] =
+    Encoder.fromFunction(as => Json.Arr(as.map(encoder.encode)))
 }
 
 /**
@@ -146,7 +137,6 @@ trait Decoder[+A] {
   def transform[B](f: A => B): Decoder[B] =
     Decoder.fromFunction(json => this.decode(json).map(f))
 }
-
 object Decoder extends DecoderInstances {
   /**
     * Convenient method to build a decoder instance from a function `f`
@@ -160,7 +150,6 @@ object Decoder extends DecoderInstances {
   def fromPartialFunction[A](pf: PartialFunction[Json, A]): Decoder[A] =
     fromFunction(pf.lift)
 }
-
 trait DecoderInstances {
 
   /** A decoder for the `Unit` value */
@@ -212,9 +201,7 @@ trait DecoderInstances {
 }
 
 case class Person(name: String, age: Int)
-
 object Person extends PersonCodecs
-
 trait PersonCodecs {
 
   /** The encoder for `Person` */
@@ -232,9 +219,7 @@ trait PersonCodecs {
 }
 
 case class Contacts(people: List[Person])
-
 object Contacts extends ContactsCodecs
-
 trait ContactsCodecs {
 
   // TODO Define the encoder and the decoder for `Contacts`
@@ -267,11 +252,11 @@ object Main {
     val maybeJsonObj    = parseJson(""" { "name": "Alice", "age": 42 } """)
     val maybeJsonObj2   = parseJson(""" { "name": "Alice", "age": "42" } """)
     // Uncomment the following lines as you progress in the assignment
-    // println(maybeJsonString.flatMap(_.decodeAs[Int]))
-    // println(maybeJsonString.flatMap(_.decodeAs[String]))
-    // println(maybeJsonObj.flatMap(_.decodeAs[Person]))
-    // println(maybeJsonObj2.flatMap(_.decodeAs[Person]))
-    // println(renderJson(Person("Bob", 66)))
+     println(maybeJsonString.flatMap(_.decodeAs[Int]))
+     println(maybeJsonString.flatMap(_.decodeAs[String]))
+     println(maybeJsonObj.flatMap(_.decodeAs[Person]))
+     println(maybeJsonObj2.flatMap(_.decodeAs[Person]))
+     println(renderJson(Person("Bob", 66)))
   }
 
 }

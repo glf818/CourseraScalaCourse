@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a85e85a5-e473-4625-a056-8a76c659b47b" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/../calculator/src/main/scala/para.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codecs/.idea/scala_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$3e0371bdff41a2e48560$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$3e0371bdff41a2e48560.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$3e0371bdff41a2e48560.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$73aad1d2c3eeefed5578$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$73aad1d2c3eeefed5578.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$73aad1d2c3eeefed5578.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$944cd892d46089947e06$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$944cd892d46089947e06.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$944cd892d46089947e06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$977c6e57ada0b79b9fa2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$977c6e57ada0b79b9fa2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$977c6e57ada0b79b9fa2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$c95a21d603fc44228e1c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$c95a21d603fc44228e1c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$c95a21d603fc44228e1c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$dc5fa399be2b0a9296ec$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$dc5fa399be2b0a9296ec.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/project/target/config-classes/$dc5fa399be2b0a9296ec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$2303716e42f9c3960238$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$2303716e42f9c3960238.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$2303716e42f9c3960238.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$3ac5ba1a815c5e2e7702$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$3ac5ba1a815c5e2e7702.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$3ac5ba1a815c5e2e7702.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$8db2d12799fd3f1ed635$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$8db2d12799fd3f1ed635.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$8db2d12799fd3f1ed635.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$95cf3c38de8d2d164c9b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$95cf3c38de8d2d164c9b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$95cf3c38de8d2d164c9b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$9864a19e49cce024a881$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$9864a19e49cce024a881.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$9864a19e49cce024a881.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$9e9fdee9cf843b02642c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$9e9fdee9cf843b02642c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$9e9fdee9cf843b02642c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$c25d2085739e3f766172$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$c25d2085739e3f766172.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$c25d2085739e3f766172.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$f1597dba5fbf26369fd3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$f1597dba5fbf26369fd3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$f1597dba5fbf26369fd3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$f55c9e2144cb2fee3cff$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$f55c9e2144cb2fee3cff.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/config-classes/$f55c9e2144cb2fee3cff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/compile/compileIncremental/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/compile/compileIncremental/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/compile/copyResources/_global/streams/copy-resources" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/compile/copyResources/_global/streams/copy-resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/src/main/scala/codecs/codecs.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/src/main/scala/codecs/codecs.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Contacts$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Contacts$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Contacts.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Contacts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/ContactsCodecs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/ContactsCodecs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Decoder$$anon$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Decoder$$anon$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Decoder$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Decoder$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Decoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Decoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anon$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anon$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$booDecoder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$booDecoder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$intDecoder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$intDecoder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$strDecoder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$strDecoder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$unitDecoder$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/DecoderInstances$$anonfun$unitDecoder$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/DecoderInstances.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/DecoderInstances.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Encoder$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Encoder$$anon$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Encoder$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Encoder$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Encoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Encoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/EncoderInstances.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/EncoderInstances.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Arr$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Arr$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Arr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Arr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Bool$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Bool$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Bool.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Bool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Null$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Null$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Num$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Num$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Num.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Num.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Obj$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Obj$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Obj.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Obj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Str$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Str$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Str.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json$Str.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Json.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Main$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/ObjectEncoder$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/ObjectEncoder$$anon$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/ObjectEncoder$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/ObjectEncoder$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/ObjectEncoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/ObjectEncoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Person$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Person$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/PersonCodecs.class" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/scala-2.13/classes/codecs/PersonCodecs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/streams/compile/_global/_global/compileSourceFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/streams/compile/_global/_global/compileSourceFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codecs/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../codecs/target/streams/compile/compileIncSetup/_global/streams/inc_compile_2.13.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jNqmJYjxpVAR4Av2se9FFnFgU3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/新建临时文件" value="Scala" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a85e85a5-e473-4625-a056-8a76c659b47b" name="默认的" comment="" />
+      <created>1603655054285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603655054285</updated>
+      <workItem from="1603655058591" duration="266000" />
+      <workItem from="1603655330394" duration="11814000" />
+      <workItem from="1604128404099" duration="9715000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="695" y="317" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1604123072790">
+      <screen x="0" y="22" width="1920" height="1058" />
+    </state>
+    <state x="695" y="317" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.22.1920.1058@0.22.1920.1058" timestamp="1604123072790" />
+  </component>
+</project>
